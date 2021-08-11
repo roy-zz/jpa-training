@@ -1,1 +1,1 @@
-# jpa-training
+# jsp-training
