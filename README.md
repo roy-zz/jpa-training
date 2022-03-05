@@ -1,3 +1,2 @@
 # jsp-training
-
-Project to study algorithm
+Project to study jsp
